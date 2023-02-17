@@ -25,7 +25,7 @@ export default function AboutMe() {
           I am driven to turn my passion into a successful career. With hands-on experience gained through work in the field, 
         </Text>
         <Text size="$xl" color="#ECEDEE" css={{textAlign:"center"}}>
-          I bring a unique perspective to the design process. Whether it's in the studio or on a job site, 
+          I bring a unique perspective to the design process. Whether it&apos;s in the studio or on a job site, 
         </Text>
         <Text size="$xl" color="#ECEDEE" css={{textAlign:"center"}}>
           I am always eager to learn and grow as an architect.

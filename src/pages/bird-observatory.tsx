@@ -8,7 +8,7 @@ import styles from "@/styles/Home.module.css";
 export default function Home() {
   return (
     <>
-    <main className={styles.main}>
+      <main className={styles.main}>
         <Text
             h1
             size={60}
@@ -21,6 +21,7 @@ export default function Home() {
         </Text>
         <Image
         src="/BirdObservatory.jpg"
+        alt=""
         />
         </main>
     </>
